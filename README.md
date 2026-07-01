@@ -71,9 +71,10 @@
 ## Blockchain APIs and Services
 
 - **[Alchemy](https://www.alchemy.com/)** - A platform offering blockchain APIs and developer tools for building dApps.
+- **[Block Lottos OpenAPI](https://blocklottos.com/openapi.json)** - A public OpenAPI for Polygon and Base lottery stats, draw history, jackpot data, ad sizes, and wallet-signed ticket transaction builders.
 - **[Infura](https://infura.io/)** - A scalable API for connecting to the Ethereum network and IPFS.
-- **[QuickNode](https://www.quicknode.com/)** - A service providing fast and reliable blockchain APIs.
 - **[Moralis](https://moralis.io/)** - A Web3 development platform offering APIs, SDKs, and tools for building dApps.
+- **[QuickNode](https://www.quicknode.com/)** - A service providing fast and reliable blockchain APIs.
 - **[The Graph API](https://thegraph.com/)** - An API for querying blockchain data using subgraphs.
 
 ## Educational Resources
