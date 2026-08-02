@@ -59,6 +59,7 @@
 - **[Moralis SDK](https://moralis.io/)** - A toolkit for building and scaling Web3 applications, with APIs for authentication and data storage.
 - **[WalletConnect](https://walletconnect.com/)** - A protocol for connecting dApps with mobile wallets via QR code scanning.
 - **[The Graph](https://thegraph.com/)** - An indexing protocol for querying blockchain data using subgraphs.
+- **[Indiadex Swap Widget](https://indiadexswap.xyz/embed-widget)** - A free embeddable cross-chain swap widget (LI.FI-powered) you can add to any website with one script tag — non-custodial, no backend required.
 
 ## Decentralized Storage
 
